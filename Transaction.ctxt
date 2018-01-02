@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Transaction
+comment0.text=\n\ This\ class\ is\ transaction.\ \ It\ is\ composed\ of\ various\ finance\ related\ fields\n\ And\ all\ encapsulated\ in\ a\ object.\ \ This\ object\ is\ then\ put\ into\ a\ ListArray\ in\ the\ \n\ Menu\ class\ which\ makes\ up\ the\ ledger.\ \ It\ would\ be\ better\ to\ have\ the\ Transaction\ class\n\ inherit\ from\ a\ new\ Ledger\ class,\ but\ I\ am\ not\ that\ smart\ yet.\n\n\ @author\ (rod\ termaat)\n\ @version\ (0.0)\n
+comment1.params=id\ date\ category\ name\ amount
+comment1.target=Transaction(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDate()
+comment3.params=
+comment3.target=java.lang.String\ getCategory()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getAmount()
+comment6.params=
+comment6.target=int\ getID()
+numComments=7
